@@ -23,8 +23,8 @@ To build and run the project, ensure you have a C++ compiler installed.
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/nikhildahiyaa/Traveling-Salesperson-Problem-TSP-Solver.git
+   cd Traveling-Salesperson-Problem-TSP-Solver
    ```
 
 2. Compile the project using the provided Makefile.
